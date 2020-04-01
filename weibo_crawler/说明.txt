@@ -1,0 +1,14 @@
+id:用户ID，均为数字
+screen_name:用户昵称
+gender:性别
+statuses_count:微博数
+followers_count:粉丝数
+follow_count:关注数
+description:简介
+profile_url:主页地址
+profile_image_url:头像url
+urank:微博等级
+mbrank:会员等级，微博会员用户等级，普通用户为0
+verified:是否认证
+verified_type:认证类型
+verified_reason:认证信息

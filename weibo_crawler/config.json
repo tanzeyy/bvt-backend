@@ -1,0 +1,17 @@
+{
+    "user_id_list": "1.txt",
+    "filter": 0,
+    "since_date": "2020-02-01",
+    "write_mode": ["csv"],
+    "original_pic_download": 0,
+	"retweet_pic_download": 0,
+    "original_video_download": 0,
+	"retweet_video_download": 0,
+    "mysql_config": {
+        "host": "192.168.12.105",
+        "port": 3306,
+        "user": "root",
+        "password": "pai123zju",
+        "charset": "utf8mb4"
+    }
+}
